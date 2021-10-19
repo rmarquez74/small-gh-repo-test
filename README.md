@@ -2,4 +2,4 @@
 test of small github repo
 
 
-New branch for PR test..!
+New branch for PR test!
